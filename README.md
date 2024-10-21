@@ -11,11 +11,11 @@ Advanced Variance Calculation: Variance is calculated from the data obtained fro
 This project is designed to assist users in performing their movements correctly during fitness training. Users receive instant feedback on the screen while performing exercises, allowing them to correct form errors and make their training more efficient.
 
 # Requirements:
--Python 3.x
--OpenCV
--NumPy
--Ultralytics YOLOv8 model file (yolov8n-pose.pt)
--A suitable camera (e.g., laptop camera or external webcam)
+Python 3.x, 
+OpenCV, 
+NumPy, 
+Ultralytics YOLOv8 model file (yolov8n-pose.pt), 
+A suitable camera (e.g., laptop camera or external webcam)
 
 # Installation:
 Install the necessary libraries to run your project and place the yolov8n-pose.pt model file in the root directory of your project. Then, you can run the code to perform real-time pose estimation and movement accuracy analysis.
